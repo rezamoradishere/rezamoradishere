@@ -33,9 +33,10 @@ I'm not just a frontend developer!!!, I'm learning and research about digital sc
 <br/>
 <br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezamoradishere&bg_color=0d1117&title_color=969696&text_color=c9d1d9&icon_color=969696&hide_border=true)
-
-![](https://streak-stats.demolab.com/?user=rezamoradishere&background=0d1117&stroke=969696&ring=969696&fire=fafafa&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e&hide_border=true)
+<p align="center">
+     <img src="https://github-readme-stats.vercel.app/api?username=rezamoradishere&bg_color=0d1117&title_color=969696&text_color=c9d1d9&icon_color=969696&hide_border=true" width="48%" height="170"/>
+    <img src="https://streak-stats.demolab.com/?user=rezamoradishere&background=0d1117&stroke=969696&ring=969696&fire=fafafa&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e&hide_border=true" width="48%" height="170"/>
+</p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rezamoradishere&bg_color=0d1117&color=c9d1d9&line=969696&point=ffffff"/>
 
