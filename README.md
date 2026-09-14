@@ -33,5 +33,6 @@ I'm not just a frontend developer!!!, I'm learning and research about digital sc
 <br/>
 
 <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=rezamoradishere&background=0d1117&stroke=969696&ring=969696&fire=fafafa&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e&hide_border=true" alt="Github Stat" width="90%" height="170"/>
+    <img src="https://github-readme-stats.shion.dev/api?username=rezamoradishere&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&hide_border=true&include_all_commits=true&show_icons=true&icon_color=c9d1d9&count_private=false" width="48%" height="170" />
+    <img src="https://streak-stats.demolab.com/?user=rezamoradishere&background=0d1117&stroke=969696&ring=969696&fire=fafafa&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e&hide_border=true" alt="Github Stat" width="48%" height="170"/>
 </p>
