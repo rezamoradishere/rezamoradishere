@@ -36,3 +36,9 @@ I'm not just a frontend developer!!!, I'm learning and research about digital sc
     <img src="https://github-readme-stats.shion.dev/api?username=rezamoradishere&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&hide_border=true&include_all_commits=true&show_icons=true&icon_color=c9d1d9&count_private=false" width="48%" height="170" />
     <img src="https://streak-stats.demolab.com/?user=rezamoradishere&background=0d1117&stroke=969696&ring=969696&fire=fafafa&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e&hide_border=true" alt="Github Stat" width="48%" height="170"/>
 </p>
+
+<div align="center">
+
+![GitHub Streak](https://github-stats.nishad.top/api/card-with-avatar?username=rezamoradishere&theme=%7B%22backgroundColor%22%3A%22%230d1117%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%23fafafa%22%2C%22borderColor%22%3A%22%230d1117%22%2C%22waterColor%22%3A%22%23fafafa%22%2C%22streakColor%22%3A%22%23fafafa%22%7D)
+
+</div>
